@@ -43,6 +43,6 @@ Licencing
 
 This software is licensed under the "Original BSD License".
 ```
-  (C) 2015  NorthernSec		https://github.com/NorthernSec
-  (c) 2015  Pieter-Jan Moreels	https://github.com/pidgeyl
+  (C) 2016  NorthernSec		https://github.com/NorthernSec
+  (c) 2016  Pieter-Jan Moreels	https://github.com/pidgeyl
 ```
