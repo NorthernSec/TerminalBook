@@ -1,0 +1,2 @@
+git+git://github.com/pidgeyl/specter
+git+git://github.com/PidgeyL/fbchat
